@@ -18,4 +18,8 @@ public class Createcontacttest {
 	{
 		System.out.println("modified organization test");
 	}
+	@Test
+	public void DeleteOrgTest() {
+		System.out.println("created deleteorgtest");
+	}
 }
